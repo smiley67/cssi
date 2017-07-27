@@ -1,0 +1,23 @@
+<htmL>
+
+<head>
+<title> My Favorite Websites</title>
+</head>
+<body>
+   <h1> My favorite Websites</h1>
+   <div>
+   <p> My favorite websites to browse is consist of Amazon,Mangatown,and youtube</p>
+
+   <ul>
+      <li><a href="https://www.amazon.com/">Amazon</a></li>
+      <li><a href="https://www.facebook.com/">Facebook</a></li>
+      <li><a href="https://www.youtube.com/">Youtube</a></li>
+          </ul>
+        </div>
+
+      <a href="hello.html">My Hello world</a>
+       <a href="profile" title="keonne graham profile">back to my profile</a>
+            <a href="photo page" title="profile">photos</a>
+     </body>
+
+          </html>
